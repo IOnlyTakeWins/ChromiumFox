@@ -1,3 +1,6 @@
+> [!CAUTION]
+> The Only official place to get ChromiumFox is from this repository. Any other repository, website, etc. is fake and should not be trusted.
+
 # ChromiumFox
 I want to love Chrome, but Chrome doesn't love me. I still love the Chromium style UI, so I have remade it for Firefox.
 
