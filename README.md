@@ -1,5 +1,12 @@
 > [!CAUTION]
-> The Only official place to get ChromiumFox is from this repository. Any other repository, website, etc. is fake and should not be trusted.
+> The only official place to get ChromiumFox is from this repository. Any other repository, website, etc. is fake and should not be trusted.
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/IOnlyTakeWins/ChromiumFox/refs/heads/main/ChromiumFox-logo.png" width="420">
+</p>
+
+<div align="center">
+
 
 # ChromiumFox
 I want to love Chrome, but Chrome doesn't love me. I still love the Chromium style UI, so I have remade it for Firefox.
