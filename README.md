@@ -1,7 +1,7 @@
 > [!CAUTION]
 > The only official place to get ChromiumFox is from this repository. Any other repository, website, etc. is fake and should not be trusted.
 
-> DISCLAIMER
+> DISCLAIMER:
 > I am not associated with Mozilla or Google in any way, shape or form.
 
 <p align="center">
