@@ -19,9 +19,20 @@ ChromiumFox is supported on Windows, Macs, and Linux. ChromiumFox is not officia
 
 # Can ChromiumFox be used on Firefox forks?
 Yes, ChromiumFox can be used on forks of Firefox and Firefox based web browsers, as long as they haven't heavily modified any UI elements.
-Currently known working forks of Firefox:
+Currently known working forks of Firefox are:
 1. LibreWolf
 2. Waterfox*
+3. Floorp*
+4. Basilisk**
+5. Tor (Not fully tested)
 
    
-*you will have a less chrome-like experience then regular firefox or another fork
+*You will have a less chrome-like experience then regular firefox or another fork
+**Barely works at all with major issues and is highly advised against
+
+# What browsers don't work with ChromiumFox?
+1. Any browser based off of Chromium
+2. Pale Moon
+3. Safari
+4. Edge
+5. IceCat
