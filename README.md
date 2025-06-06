@@ -15,7 +15,7 @@
 I want to love Chrome, but Chrome doesn't love me. I still love the Chromium style UI, so I have remade it for Firefox.
 
 # What devices are ChromiumFox supported on?
-ChromiumFox is supported on Windows, Macs, and Linux. ChromiumFox is not officially supported on Chromebooks.
+ChromiumFox is supported on Windows, Macs, and Linux. ChromiumFox is not officially supported on Chromebooks or any mobile device running Android or iOS.
 
 # Can ChromiumFox be used on Firefox forks?
 Yes, ChromiumFox can be used on forks of Firefox and Firefox based web browsers, as long as they haven't heavily modified any UI elements.
