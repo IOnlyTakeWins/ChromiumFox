@@ -12,7 +12,7 @@
 
 
 # What is ChromiumFox?
-I want to love Chrome, but Chrome doesn't love me. Still, I enjoy the Chromium-style UI — so I recreated it for Firefox. ChromiumFox brings a Chrome-like look to the Firefox platform.
+I kind of think Chrome sucks. Still, I enjoy the Chromium-style UI — so I recreated it for Firefox. ChromiumFox brings a Chrome-like look to the Firefox platform.
 
 # What devices are ChromiumFox supported on?
 ChromiumFox is supported on Windows, Macs, and Linux. ChromiumFox is not officially supported on Chromebooks or any mobile device running Android or iOS.
